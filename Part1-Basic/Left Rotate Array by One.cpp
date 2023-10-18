@@ -1,3 +1,5 @@
+// Problem link - https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278
+
 #include <bits/stdc++.h>
 vector<int> rotateArray(vector<int> &arr, int n)
 {
